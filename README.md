@@ -21,17 +21,17 @@
 
 <br />
 
-### Connect with me:
+## Connect with me:
 
-[<img align="left" alt=" Twitter" width="35 height="35 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dhruv_is_here)
+[<img align="left" alt=" Twitter" width="35" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dhruv_is_here)
 
-[<img align="left" alt="LinkedIn" width="35 height="35 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dhruv-narayan-tiwari/)
+[<img align="left" alt="LinkedIn" width="35" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dhruv-narayan-tiwari/)
 
-[<img align="left" alt="Instagram" width="35 height="35 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dhruv_the_el_pee_da/)
+[<img align="left" alt="Instagram" width="35" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dhruv_the_el_pee_da/)
 
-[<img align="left" alt="dev.to" width="35 height="35src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" />](https://dev.to/debugdhruv)
+[<img align="left" alt="dev.to" width="35" height="35" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" />](https://dev.to/debugdhruv)
 
-[<img align="left" alt="Gmail" width="35 height="35src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:dhruvtiwari.1130@gmail.com)
+[<img align="left" alt="Gmail" width="35" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:dhruvtiwari.1130@gmail.com)
 
 <br />  
 <br />
