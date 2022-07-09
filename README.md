@@ -25,7 +25,7 @@
 
 [<img align="left" alt=" Twitter" width="35" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dhruv_is_here)
 
-[<img align="left" alt="LinkedIn" width="35" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dhruv-narayan-tiwari/)
+[<img align="left" alt="LinkedIn" width="35" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/debugdhruv/)
 
 [<img align="left" alt="Instagram" width="35" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dhruv_the_el_pee_da/)
 
