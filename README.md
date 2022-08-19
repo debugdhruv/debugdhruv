@@ -1,4 +1,4 @@
-<h1 align="left">Hello folk!😊 I'm Dhruv Narayan Tiwari</h1>
+<h1 align="left">Hello folk! I'm Dhruv Narayan Tiwari</h1>
 <h3 align="left">I am a self-taught UI & UX Designer, Frontend Web developer and have strong guts and will to become a fullstack developer in nearby future.</h3>
 
 <h5 align="left">
