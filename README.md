@@ -23,7 +23,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt=" Twitter" width="35" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dhruv_is_here)
+[<img color="white" align="left" alt=" Twitter" width="35" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dhruv_is_here)
 
 [<img align="left" alt="LinkedIn" width="35" height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/debugdhruv/)
 
