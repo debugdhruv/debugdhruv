@@ -13,6 +13,17 @@
 - Personal website [link](https://www.bento.me/dhruvux)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1XVdvKMszkCL16VesYJvmeMztmm-IqzRM/view?usp=sharing)
 <br>
+</p>
+<b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<div align='left'>
+<a href="https://linkedin.com/in/dhruvux" target="_blank">
+LinkedIn
+</a>
+<br>
+<a href="mailto:dhruvtiwari.1130@gmail.com" target="_blank">
+dhruvtiwari.1130@gmail.com
+</a>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h2><b> Github Stats </b></h2>
@@ -26,28 +37,6 @@
 <br /><br /><br />
 <h2><b>Skills</b></h2>
 <br>
-<p align="center">
-<img src="https://i.ibb.co/FbJZm0pL/Chat-GPT-Image-Jun-28-2025-01-07-02-PM.png" alt="Skills Picture_Dhruv" border="0">
-</p>
-<br>
-<b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-LinkedIn
-</a>
-</li>
-<br>
-
-<li>
-<a href="mailto:dhruvtiwari.1130@gmail.com" target="_blank">
-dhruvtiwari.1130@gmail.com
-</a>
-</li>
-	
-</ul>
-</div>
+<p align="left">
+<img src="https://i.ibb.co/FbJZm0pL/Chat-GPT-Image-Jun-28-2025-01-07-02-PM.png" alt="Skills Picture_Dhruv" border="0" width="300px">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
