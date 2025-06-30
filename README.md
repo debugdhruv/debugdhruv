@@ -4,7 +4,7 @@
 
 - A passionate Self-taught Front-end developer and UI/UX Designer
 - Currently learning Backend Development and DSA
-- Personal website [link](https://www.bento.me/dhruvux)
+- Portfolio [link](https://www.bento.me/dhruvux)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1-QByyVVofb7F-AiSW3mEQLnv4UZqhckx/view?usp=sharing)
 
 <br/>
