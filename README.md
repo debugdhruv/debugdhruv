@@ -1,4 +1,4 @@
-<h1 align="left"><b>Hi , I'm Dhruv Narayan Tiwari </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left"><b>Hi , I'm Dhruv Narayan Tiwari </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img align="right" src="https://komarev.com/ghpvc/?username=debugdhruv&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruv's Profile View" /></h1>
 <br>
 <h3><b>About me</b></h3>
 
