@@ -23,10 +23,10 @@ dhruvtiwari.1130@gmail.com
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h2><b> Github Stats </b></h2>
 <br>
-<div align="center">
+<div align="left">
 <a href="https://github.com/debugdhruv/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debugdhruv&show_icons=true&locale=en" alt="debugdhruv" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=debugdhruv&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Dhruv"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=debugdhruv&show_icons=true&locale=en" alt="debugdhruv" />
 </a>
 </div>
 <br /><br /><br />
